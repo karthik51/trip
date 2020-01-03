@@ -1,0 +1,721 @@
+{
+  "Trip.Api.dll": {
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Program.cs": {
+      "Trip.Api.Program": {
+        "System.Void Trip.Api.Program::Main(System.String[])": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Hosting.IWebHostBuilder Trip.Api.Program::CreateWebHostBuilder(System.String[])": {
+          "Lines": {
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Startup.cs": {
+      "Trip.Api.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration Trip.Api.Startup::get_Configuration()": {
+          "Lines": {
+            "33": 6
+          },
+          "Branches": []
+        },
+        "System.Void Trip.Api.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "38": 1,
+            "40": 1,
+            "44": 1,
+            "45": 2,
+            "46": 2,
+            "47": 3,
+            "48": 0,
+            "49": 3,
+            "50": 3,
+            "51": 3,
+            "52": 2,
+            "56": 1,
+            "57": 1,
+            "58": 2,
+            "59": 2,
+            "60": 2,
+            "61": 2,
+            "62": 2,
+            "64": 1,
+            "65": 2,
+            "70": 1,
+            "71": 1,
+            "74": 1,
+            "75": 1,
+            "76": 1,
+            "77": 2,
+            "78": 2,
+            "79": 2,
+            "80": 2,
+            "81": 1,
+            "82": 2,
+            "83": 2,
+            "84": 2,
+            "85": 2,
+            "86": 2,
+            "87": 2,
+            "88": 2,
+            "89": 2,
+            "90": 2,
+            "91": 2,
+            "92": 2,
+            "97": 1,
+            "98": 2,
+            "99": 2,
+            "100": 2,
+            "101": 2,
+            "102": 2,
+            "103": 2,
+            "104": 2,
+            "105": 2,
+            "106": 2,
+            "107": 2,
+            "108": 2,
+            "109": 2,
+            "110": 2,
+            "111": 2,
+            "116": 1,
+            "120": 1,
+            "122": 1,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 1,
+            "127": 2,
+            "128": 2,
+            "129": 2,
+            "130": 2,
+            "134": 1,
+            "135": 1,
+            "137": 1
+          },
+          "Branches": [
+            {
+              "Line": 44,
+              "Offset": 34,
+              "EndOffset": 36,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 44,
+              "Offset": 34,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 76,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 76,
+              "Offset": 164,
+              "EndOffset": 189,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 97,
+              "Offset": 219,
+              "EndOffset": 221,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 97,
+              "Offset": 219,
+              "EndOffset": 244,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 122,
+              "Offset": 314,
+              "EndOffset": 316,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 122,
+              "Offset": 314,
+              "EndOffset": 339,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 46,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 46,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 47,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 47,
+              "Offset": 7,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void Trip.Api.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)": {
+          "Lines": {
+            "141": 1,
+            "142": 1,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 1,
+            "147": 1,
+            "148": 1,
+            "149": 1,
+            "150": 2,
+            "151": 2,
+            "152": 2,
+            "153": 1,
+            "155": 1
+          },
+          "Branches": [
+            {
+              "Line": 142,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 142,
+              "Offset": 9,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 149,
+              "Offset": 54,
+              "EndOffset": 56,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 149,
+              "Offset": 54,
+              "EndOffset": 79,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void Trip.Api.Startup::ConfigureConsul(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "157": 1,
+            "158": 1,
+            "160": 1,
+            "161": 1
+          },
+          "Branches": []
+        },
+        "System.Void Trip.Api.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "34": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Repository\\TripRepository.cs": {
+      "Trip.Api.Repository.TripRepository": {
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.List`1<Trip.Api.Models.Ride>> Trip.Api.Repository.TripRepository::GetTripCustomer(System.String)": {
+          "Lines": {
+            "29": 1,
+            "30": 1,
+            "32": 1,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 1
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.List`1<Trip.Api.Models.Ride>> Trip.Api.Repository.TripRepository::GetTripDriver(System.String)": {
+          "Lines": {
+            "39": 1,
+            "40": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1
+          },
+          "Branches": []
+        },
+        "System.Void Trip.Api.Repository.TripRepository::.ctor(Trip.Api.Data.ITripContext)": {
+          "Lines": {
+            "15": 4,
+            "16": 4,
+            "17": 4,
+            "18": 4
+          },
+          "Branches": []
+        }
+      },
+      "Trip.Api.Repository.TripRepository/<GetAllTrips>d__2": {
+        "System.Void Trip.Api.Repository.TripRepository/<GetAllTrips>d__2::MoveNext()": {
+          "Lines": {
+            "21": 1,
+            "22": 1,
+            "23": 1,
+            "24": 1,
+            "25": 1,
+            "26": 1
+          },
+          "Branches": []
+        }
+      },
+      "Trip.Api.Repository.TripRepository/<Create>d__5": {
+        "System.Void Trip.Api.Repository.TripRepository/<Create>d__5::MoveNext()": {
+          "Lines": {
+            "49": 1,
+            "50": 1,
+            "51": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Models\\Trip.cs": {
+      "Trip.Api.Models.Ride": {
+        "System.String Trip.Api.Models.Ride::get_Id()": {
+          "Lines": {
+            "15": 54
+          },
+          "Branches": []
+        },
+        "System.DateTime Trip.Api.Models.Ride::get_RideDate()": {
+          "Lines": {
+            "16": 52
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.Ride::get_FromLocation()": {
+          "Lines": {
+            "17": 52
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.Ride::get_ToLocation()": {
+          "Lines": {
+            "19": 52
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.Ride::get_RideByUser()": {
+          "Lines": {
+            "21": 52
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.Ride::get_VehicleCategoryType()": {
+          "Lines": {
+            "23": 52
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.Ride::get_RideAcceptedByUser()": {
+          "Lines": {
+            "25": 52
+          },
+          "Branches": []
+        },
+        "System.Boolean Trip.Api.Models.Ride::get_IsRideCancelled()": {
+          "Lines": {
+            "27": 52
+          },
+          "Branches": []
+        },
+        "System.Boolean Trip.Api.Models.Ride::get_IsRideCompleted()": {
+          "Lines": {
+            "29": 52
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.Ride::get_VehicleImage()": {
+          "Lines": {
+            "31": 52
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.Ride::get_VehicleNumber()": {
+          "Lines": {
+            "33": 52
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Infrastructure\\Handlers\\AccessTokenHttpMessageHandler.cs": {
+      "Trip.Api.Infrastructure.Handlers.AccessTokenHttpMessageHandler": {
+        "System.Void Trip.Api.Infrastructure.Handlers.AccessTokenHttpMessageHandler::.ctor(Microsoft.AspNetCore.Http.IHttpContextAccessor)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      },
+      "Trip.Api.Infrastructure.Handlers.AccessTokenHttpMessageHandler/<SendAsync>d__2": {
+        "System.Void Trip.Api.Infrastructure.Handlers.AccessTokenHttpMessageHandler/<SendAsync>d__2::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": [
+            {
+              "Line": 20,
+              "Offset": 14,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 14,
+              "EndOffset": 275,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Infrastructure\\Filters\\HttpGlobalExceptionFilter.cs": {
+      "Trip.Api.Infrastructure.Filters.HttpGlobalExceptionFilter": {
+        "System.Void Trip.Api.Infrastructure.Filters.HttpGlobalExceptionFilter::OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 80,
+              "EndOffset": 82,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 80,
+              "EndOffset": 156,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 201,
+              "EndOffset": 203,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 201,
+              "EndOffset": 218,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Trip.Api.Infrastructure.Filters.HttpGlobalExceptionFilter::.ctor(Microsoft.AspNetCore.Hosting.IHostingEnvironment,Microsoft.Extensions.Logging.ILogger`1<Trip.Api.Infrastructure.Filters.HttpGlobalExceptionFilter>)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Infrastructure\\Exceptions\\TripDomainException.cs": {
+      "Trip.Api.Infrastructure.Exceptions.TripDomainException": {
+        "System.Void Trip.Api.Infrastructure.Exceptions.TripDomainException::.ctor()": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Void Trip.Api.Infrastructure.Exceptions.TripDomainException::.ctor(System.String)": {
+          "Lines": {
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Void Trip.Api.Infrastructure.Exceptions.TripDomainException::.ctor(System.String,System.Exception)": {
+          "Lines": {
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Infrastructure\\ActionResults\\InternalServerErrorObjectResult.cs": {
+      "Trip.Api.Infrastructure.ActionResults.InternalServerErrorObjectResult": {
+        "System.Void Trip.Api.Infrastructure.ActionResults.InternalServerErrorObjectResult::.ctor(System.Object)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Helpers\\AppSettings.cs": {
+      "Trip.Api.Helpers.AppSettings": {
+        "System.String Trip.Api.Helpers.AppSettings::get_Secret()": {
+          "Lines": {
+            "5": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Helpers\\MongoSettings.cs": {
+      "Trip.Api.Helpers.MongoSettings": {
+        "System.String Trip.Api.Helpers.MongoSettings::get_ConnectionString()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Helpers.MongoSettings::get_Database()": {
+          "Lines": {
+            "6": 5
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Models\\JsonErrorResponse.cs": {
+      "Trip.Api.Helpers.JsonErrorResponse": {
+        "System.String[] Trip.Api.Helpers.JsonErrorResponse::get_Messages()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Object Trip.Api.Helpers.JsonErrorResponse::get_DeveloperMessage()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Data\\TripContext.cs": {
+      "Trip.Api.Data.TripContext": {
+        "MongoDB.Driver.IMongoCollection`1<Trip.Api.Models.Ride> Trip.Api.Data.TripContext::get_Rides()": {
+          "Lines": {
+            "17": 4
+          },
+          "Branches": []
+        },
+        "System.Void Trip.Api.Data.TripContext::.ctor(Microsoft.Extensions.Options.IOptions`1<Trip.Api.Helpers.MongoSettings>,MongoDB.Driver.IMongoClient)": {
+          "Lines": {
+            "12": 4,
+            "13": 4,
+            "14": 4,
+            "15": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\TmsS2\\Trip.Api\\Controllers\\TripController.cs": {
+      "Trip.Api.Controllers.TripsController": {
+        "System.Void Trip.Api.Controllers.TripsController::.ctor(Trip.Api.Repository.ITripRepository)": {
+          "Lines": {
+            "16": 4,
+            "17": 4,
+            "18": 4,
+            "19": 4
+          },
+          "Branches": []
+        }
+      },
+      "Trip.Api.Controllers.TripsController/<Get>d__2": {
+        "System.Void Trip.Api.Controllers.TripsController/<Get>d__2::MoveNext()": {
+          "Lines": {
+            "25": 1,
+            "26": 1,
+            "27": 1
+          },
+          "Branches": []
+        }
+      },
+      "Trip.Api.Controllers.TripsController/<GetTripsForEmployee>d__3": {
+        "System.Void Trip.Api.Controllers.TripsController/<GetTripsForEmployee>d__3::MoveNext()": {
+          "Lines": {
+            "33": 1,
+            "34": 1,
+            "36": 1,
+            "37": 0,
+            "39": 1,
+            "40": 1
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 164,
+              "EndOffset": 174,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Trip.Api.Controllers.TripsController/<GetTripsByCustomer>d__4": {
+        "System.Void Trip.Api.Controllers.TripsController/<GetTripsByCustomer>d__4::MoveNext()": {
+          "Lines": {
+            "46": 1,
+            "47": 1,
+            "49": 1,
+            "50": 0,
+            "52": 1,
+            "53": 1
+          },
+          "Branches": [
+            {
+              "Line": 49,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 164,
+              "EndOffset": 174,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Trip.Api.Controllers.TripsController/<Post>d__5": {
+        "System.Void Trip.Api.Controllers.TripsController/<Post>d__5::MoveNext()": {
+          "Lines": {
+            "59": 1,
+            "60": 1,
+            "61": 1,
+            "62": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
